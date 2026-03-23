@@ -1,0 +1,1071 @@
+user_id,course_title,rating,persona
+0,Meta iOS Developer,4,Beginner Web Dev
+0,"Introduction to Web Development with HTML, CSS, JavaScript",3,Beginner Web Dev
+0,Version Control,3,Beginner Web Dev
+0,Drug Development Product Management,5,Beginner Web Dev
+0,Introduction to Web Development,5,Beginner Web Dev
+0,Java FullStack Developer,5,Beginner Web Dev
+0,用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1)),3,Beginner Web Dev
+0,Cybersécurité Google,4,Beginner Web Dev
+0,Miracles of Human Language: An Introduction to Linguistics,2,Beginner Web Dev
+1,Introductory C Programming,5,Beginner Web Dev
+1,JavaScript for Beginners,5,Beginner Web Dev
+1,CompTIA a+_ cyber,2,Beginner Web Dev
+1,Java Programming and Software Engineering Fundamentals,5,Beginner Web Dev
+1,Web Design for Everybody: Basics of Web Development & Coding,5,Beginner Web Dev
+1,IBM Front-End Developer,5,Beginner Web Dev
+1,Financial Planning for Young Adults,5,Beginner Web Dev
+1,Google Cloud Digital Leader Training,4,Beginner Web Dev
+1,Calculus for Machine Learning and Data Science,2,Beginner Web Dev
+2,Programming with JavaScript,4,Beginner Web Dev
+2,Visual Elements of User Interface Design,5,Beginner Web Dev
+2,Meta iOS Developer,5,Beginner Web Dev
+2,HTML and CSS in depth,5,Beginner Web Dev
+2,"Introduction to Web Development with HTML, CSS, JavaScript",5,Beginner Web Dev
+2,Coaching Skills for Managers,5,Beginner Web Dev
+2,Meta Front-End Developer,5,Beginner Web Dev
+2,Prompt Engineering for ChatGPT,4,Beginner Web Dev
+2,Corporate & Commercial Law I: Contracts & Employment Law,3,Beginner Web Dev
+2,Wine Tasting: Sensory Techniques for Wine Analysis,5,Beginner Web Dev
+3,Programming with JavaScript,5,Beginner Web Dev
+3,Digital Health,5,Beginner Web Dev
+3,Gamification,2,Beginner Web Dev
+3,Visual Elements of User Interface Design,3,Beginner Web Dev
+3,"HTML, CSS, and Javascript for Web Developers",5,Beginner Web Dev
+3,HTML and CSS in depth,5,Beginner Web Dev
+3,Cloud Application Development Foundations,3,Beginner Web Dev
+3,Supply Chain Management,1,Beginner Web Dev
+3,Science of Exercise,2,Beginner Web Dev
+3,"Product Ideation, Design, and Management",4,Beginner Web Dev
+4,Visual Elements of User Interface Design,5,Beginner Web Dev
+4,Meta AR Developer,5,Beginner Web Dev
+4,Key Technologies for Business,3,Beginner Web Dev
+4,HTML and CSS in depth,4,Beginner Web Dev
+4,Gamification,4,Beginner Web Dev
+4,Introduction to Web Development,4,Beginner Web Dev
+4,Machine Learning Foundations for Product Managers,4,Beginner Web Dev
+4,Sports Performance Analytics,3,Beginner Web Dev
+4,Spanish for Successful Communication in Healthcare Settings,1,Beginner Web Dev
+5,Introduction to Web Development,5,Beginner Web Dev
+5,Coaching Skills for Managers,5,Beginner Web Dev
+5,"Introduction to Biology: Ecology, Evolution, & Biodiversity",5,Beginner Web Dev
+5,"HTML, CSS, and Javascript for Web Developers",5,Beginner Web Dev
+5,Java FullStack Developer,5,Beginner Web Dev
+5,Habilidades Gerenciales,4,Beginner Web Dev
+5,Architecting with Google Compute Engine,3,Beginner Web Dev
+5,Cloud-Native Development with OpenShift and Kubernetes,3,Beginner Web Dev
+5,U.S. Federal Taxation,5,Beginner Web Dev
+5,Auditing I: Conceptual Foundations of Auditing,3,Beginner Web Dev
+6,Visual Elements of User Interface Design,3,Beginner Web Dev
+6,Digital Health,5,Beginner Web Dev
+6,IBM Full Stack Software Developer,5,Beginner Web Dev
+6,Ask Questions to Make Data-Driven Decisions,3,Beginner Web Dev
+6,"Introduction to Web Development with HTML, CSS, JavaScript",4,Beginner Web Dev
+6,Cloud Application Development Foundations,5,Beginner Web Dev
+6,Principles of Management,4,Beginner Web Dev
+6,Meta AR Developer,4,Beginner Web Dev
+6,IBM & Darden Digital Strategy,5,Beginner Web Dev
+7,Java Programming and Software Engineering Fundamentals,4,Beginner Web Dev
+7,Developing Front-End Apps with React,5,Beginner Web Dev
+7,Design and Interpretation of Clinical Trials,2,Beginner Web Dev
+7,Desarrollador front-end de Meta,5,Beginner Web Dev
+7,Version Control,4,Beginner Web Dev
+7,Architecting with Google Compute Engine,2,Beginner Web Dev
+7,Financial Markets,4,Beginner Web Dev
+7,Cybersecurity Operations Fundamentals,1,Beginner Web Dev
+7,Finding Purpose and Meaning In Life: Living for What Matters Most,3,Beginner Web Dev
+8,Introduction to Web Development,5,Beginner Web Dev
+8,"Introduction to Biology: Ecology, Evolution, & Biodiversity",2,Beginner Web Dev
+8,Using Python to Access Web Data,2,Beginner Web Dev
+8,Cloud Application Development Foundations,5,Beginner Web Dev
+8,Django for Everybody,5,Beginner Web Dev
+8,Meta iOS Developer,4,Beginner Web Dev
+8,Financial Markets,5,Beginner Web Dev
+8,Natural Language Processing with Classification and Vector Spaces,4,Beginner Web Dev
+8,Social Media Marketing,3,Beginner Web Dev
+9,Introduction to Computer Science and Programming,5,Beginner Web Dev
+9,Design and Interpretation of Clinical Trials,1,Beginner Web Dev
+9,Meta Android Developer,4,Beginner Web Dev
+9,Java FullStack Developer,2,Beginner Web Dev
+9,Meta iOS Developer,2,Beginner Web Dev
+9,Desarrollador front-end de Meta,5,Beginner Web Dev
+9,HTML and CSS in depth,5,Beginner Web Dev
+9,Google Advanced Data Analytics,3,Beginner Web Dev
+9,International Business Essentials,5,Beginner Web Dev
+9,Architecting with Google Kubernetes Engine,4,Beginner Web Dev
+10,IBM Front-End Developer,5,Beginner Web Dev
+10,Ask Questions to Make Data-Driven Decisions,3,Beginner Web Dev
+10,Django for Everybody,5,Beginner Web Dev
+10,Google Data Analytics (PT),3,Beginner Web Dev
+10,Habilidades Gerenciales,3,Beginner Web Dev
+10,Introduction to Computer Science and Programming,2,Beginner Web Dev
+10,Principles of Sustainable Finance,3,Beginner Web Dev
+10,Marketing with TikTok,4,Beginner Web Dev
+10,Finance for Non-Finance Professionals,2,Beginner Web Dev
+11,Key Technologies for Business,5,Beginner Web Dev
+11,Gamification,2,Beginner Web Dev
+11,React Basics,5,Beginner Web Dev
+11,Using Python to Access Web Data,3,Beginner Web Dev
+11,English for Career Development,1,Beginner Web Dev
+11,Introduction to Computer Science and Programming,4,Beginner Web Dev
+11,Organizational Analysis,4,Beginner Web Dev
+12,Web Design for Everybody: Basics of Web Development & Coding,3,Beginner Web Dev
+12,Meta AR Developer,3,Beginner Web Dev
+12,IBM Full Stack Software Developer,2,Beginner Web Dev
+12,Introduction to Computer Science and Programming,4,Beginner Web Dev
+12,Web Applications for Everybody,5,Beginner Web Dev
+12,Visual Elements of User Interface Design,4,Beginner Web Dev
+12,Coaching Skills for Managers,1,Beginner Web Dev
+12,Introduction to User Experience Design,3,Beginner Web Dev
+12,Abnormal Psychology,1,Beginner Web Dev
+12,Data Mining,4,Beginner Web Dev
+13,Meta Back-End Developer,5,Beginner Web Dev
+13,Java FullStack Developer,4,Beginner Web Dev
+13,Digital Health,4,Beginner Web Dev
+13,Cloud Application Development Foundations,5,Beginner Web Dev
+13,Web Design for Everybody: Basics of Web Development & Coding,5,Beginner Web Dev
+13,Visual Elements of User Interface Design,3,Beginner Web Dev
+13,Introductory C Programming,5,Beginner Web Dev
+13,Country Level Economics: Macroeconomic Variables and Markets,1,Beginner Web Dev
+13,Impact Measurement & Management for the SDGs,2,Beginner Web Dev
+13,Robotics,4,Beginner Web Dev
+14,Introduction to Web Development,4,Beginner Web Dev
+14,Web Design for Everybody: Basics of Web Development & Coding,5,Beginner Web Dev
+14,Meta Android Developer,4,Beginner Web Dev
+14,Gamification,2,Beginner Web Dev
+14,Object-Oriented Data Structures in C++,1,Beginner Web Dev
+14,The Materiality of ESG Factors,1,Beginner Web Dev
+14,(ISC)² Systems Security Certified Practitioner (SSCP),3,Beginner Web Dev
+14,Queering Identities: LGBTQ+ Sexuality and Gender Identity,5,Beginner Web Dev
+15,Developing Front-End Apps with React,4,Beginner Web Dev
+15,Java FullStack Developer,3,Beginner Web Dev
+15,Cloud Application Development Foundations,5,Beginner Web Dev
+15,Google Data Analytics (PT),5,Beginner Web Dev
+15,Design and Interpretation of Clinical Trials,5,Beginner Web Dev
+15,Introductory C Programming,5,Beginner Web Dev
+15,Ask Questions to Make Data-Driven Decisions,1,Beginner Web Dev
+15,Natural Language Processing with Probabilistic Models,2,Beginner Web Dev
+15,International Marketing & Cross Industry Growth,1,Beginner Web Dev
+15,Deep Neural Networks with PyTorch,1,Beginner Web Dev
+16,Object-Oriented Data Structures in C++,4,Beginner Web Dev
+16,Design and Interpretation of Clinical Trials,5,Beginner Web Dev
+16,Cloud Application Development Foundations,5,Beginner Web Dev
+16,HTML and CSS in depth,3,Beginner Web Dev
+16,Gamification,2,Beginner Web Dev
+16,Desarrollador front-end de Meta,5,Beginner Web Dev
+16,Web Applications for Everybody,5,Beginner Web Dev
+16,Foundations of Software Testing and Validation,3,Beginner Web Dev
+16,JavaScript for Beginners,3,Beginner Web Dev
+16,Introduction to Philosophy,3,Beginner Web Dev
+17,Web Design for Everybody: Basics of Web Development & Coding,5,Beginner Web Dev
+17,Meta Android Developer,5,Beginner Web Dev
+17,Meta iOS Developer,4,Beginner Web Dev
+17,IBM Full Stack Software Developer,5,Beginner Web Dev
+17,Java FullStack Developer,3,Beginner Web Dev
+17,Introduction to Front-End Development,5,Beginner Web Dev
+17,Architecting with Google Compute Engine,5,Beginner Web Dev
+17,English for Journalism,1,Beginner Web Dev
+17,Digitalisation in Aeronautics and Space,2,Beginner Web Dev
+17,Foundations of Data Structures and Algorithms,3,Beginner Web Dev
+18,Habilidades Gerenciales,5,Beginner Web Dev
+18,Java Programming and Software Engineering Fundamentals,5,Beginner Web Dev
+18,JavaScript for Beginners,5,Beginner Web Dev
+18,"HTML, CSS, and Javascript for Web Developers",4,Beginner Web Dev
+18,.NET FullStack Developer,3,Beginner Web Dev
+18,CompTIA a+_ cyber,2,Beginner Web Dev
+18,Meta iOS Developer,3,Beginner Web Dev
+18,Web Design for Everybody: Basics of Web Development & Coding,5,Beginner Web Dev
+18,Project Management: Foundations and Initiation,3,Beginner Web Dev
+18,Drug Development Product Management,4,Beginner Web Dev
+19,Drug Development Product Management,5,Beginner Web Dev
+19,Java Programming and Software Engineering Fundamentals,5,Beginner Web Dev
+19,HTML and CSS in depth,3,Beginner Web Dev
+19,JavaScript for Beginners,3,Beginner Web Dev
+19,Meta iOS Developer,3,Beginner Web Dev
+19,Dino 101: Dinosaur Paleobiology,2,Beginner Web Dev
+19,Management of Fashion and Luxury Companies,4,Beginner Web Dev
+19,Devenir entrepreneur du changement,2,Beginner Web Dev
+20,JavaScript for Beginners,4,Beginner Web Dev
+20,Habilidades Gerenciales,5,Beginner Web Dev
+20,Django for Everybody,5,Beginner Web Dev
+20,Version Control,5,Beginner Web Dev
+20,Meta Android Developer,5,Beginner Web Dev
+20,Using Python to Access Web Data,5,Beginner Web Dev
+20,Digital Health,4,Beginner Web Dev
+20,Learn English: Advanced Academic Speaking and Listening,2,Beginner Web Dev
+20,Conflict Management,1,Beginner Web Dev
+20,Practical Guide to Trading,3,Beginner Web Dev
+21,JavaScript for Beginners,3,Beginner Web Dev
+21,TensorFlow: Data and Deployment,3,Beginner Web Dev
+21,Object-Oriented Data Structures in C++,4,Beginner Web Dev
+21,Introduction to Web Development,5,Beginner Web Dev
+21,Ask Questions to Make Data-Driven Decisions,3,Beginner Web Dev
+21,"Introduction to Web Development with HTML, CSS, JavaScript",5,Beginner Web Dev
+21,Entrepreneurship: Growing Your Business,3,Beginner Web Dev
+21,Finding Your Professional Voice: Confidence & Impact,4,Beginner Web Dev
+21,Entrepreneurship Strategy: From Ideation to Exit,5,Beginner Web Dev
+22,"Introduction to Web Development with HTML, CSS, JavaScript",5,Beginner Web Dev
+22,Object-Oriented Data Structures in C++,2,Beginner Web Dev
+22,Introductory C Programming,5,Beginner Web Dev
+22,Introduction to Generative AI,5,Beginner Web Dev
+22,Meta Front-End Developer,5,Beginner Web Dev
+22,HTML and CSS in depth,5,Beginner Web Dev
+22,Programming with JavaScript,4,Beginner Web Dev
+22,International Organizations Management,2,Beginner Web Dev
+22,Professionalism in Allied Health,5,Beginner Web Dev
+22,Visualizing the Living Body: Diagnostic Imaging,1,Beginner Web Dev
+23,Cloud Application Development Foundations,5,Beginner Web Dev
+23,Coaching Skills for Managers,3,Beginner Web Dev
+23,Introduction to Generative AI,5,Beginner Web Dev
+23,Digital Health,4,Beginner Web Dev
+23,Programming with JavaScript,4,Beginner Web Dev
+23,Design and Interpretation of Clinical Trials,3,Beginner Web Dev
+23,IBM Full Stack Software Developer,4,Beginner Web Dev
+23,Introduction to Clinical Data,5,Beginner Web Dev
+23,Creative Writing,4,Beginner Web Dev
+23,Think Outside the Inbox: Email Marketing,3,Beginner Web Dev
+24,Introduction to Web Development,4,Beginner Web Dev
+24,Using Python to Access Web Data,3,Beginner Web Dev
+24,Gamification,1,Beginner Web Dev
+24,Java Programming and Software Engineering Fundamentals,5,Beginner Web Dev
+24,Habilidades Gerenciales,5,Beginner Web Dev
+24,Developing Front-End Apps with React,5,Beginner Web Dev
+24,The Singer Songwriter,3,Beginner Web Dev
+24,Forensic Accounting and Fraud Examination,3,Beginner Web Dev
+24,Professionalism in Allied Health,1,Beginner Web Dev
+25,Ask Questions to Make Data-Driven Decisions,5,Beginner Web Dev
+25,Java Programming and Software Engineering Fundamentals,5,Beginner Web Dev
+25,Web Applications for Everybody,3,Beginner Web Dev
+25,Coaching Skills for Managers,4,Beginner Web Dev
+25,JavaScript for Beginners,4,Beginner Web Dev
+25,Introduction to Generative AI,5,Beginner Web Dev
+25,Business Strategies for A Better World,3,Beginner Web Dev
+25,International Organizations Management,3,Beginner Web Dev
+25,Accounting: Principles of Financial Accounting,1,Beginner Web Dev
+26,"Introduction to Biology: Ecology, Evolution, & Biodiversity",5,Beginner Web Dev
+26,Object-Oriented Data Structures in C++,4,Beginner Web Dev
+26,Key Technologies for Business,1,Beginner Web Dev
+26,Digital Health,5,Beginner Web Dev
+26,IBM Front-End Developer,5,Beginner Web Dev
+26,"HTML, CSS, and Javascript for Web Developers",4,Beginner Web Dev
+26,IBM Data Analytics with Excel and R,4,Beginner Web Dev
+26,Design and Interpretation of Clinical Trials,2,Beginner Web Dev
+26,Google UX Design (PT),4,Beginner Web Dev
+27,"HTML, CSS, and Javascript for Web Developers",2,Beginner Web Dev
+27,.NET FullStack Developer,3,Beginner Web Dev
+27,Meta AR Developer,2,Beginner Web Dev
+27,Introduction to Generative AI,4,Beginner Web Dev
+27,Java FullStack Developer,5,Beginner Web Dev
+27,Architecting with Google Compute Engine,2,Beginner Web Dev
+27,Cloud Application Development Foundations,5,Beginner Web Dev
+27,Introduction to Google SEO,1,Beginner Web Dev
+27,A life with ADHD,4,Beginner Web Dev
+27,Go Beyond the Numbers: Translate Data into Insights,3,Beginner Web Dev
+28,JavaScript for Beginners,5,Beginner Web Dev
+28,Design and Interpretation of Clinical Trials,5,Beginner Web Dev
+28,Programming with JavaScript,5,Beginner Web Dev
+28,CompTIA a+_ cyber,4,Beginner Web Dev
+28,"Introduction to Biology: Ecology, Evolution, & Biodiversity",5,Beginner Web Dev
+28,Web Applications for Everybody,4,Beginner Web Dev
+28,Fundamentals of Engineering Exam Review,4,Beginner Web Dev
+28,Financing and Investing in Infrastructure,4,Beginner Web Dev
+28,Google Project Management (PT),4,Beginner Web Dev
+29,Meta Front-End Developer,5,Beginner Web Dev
+29,IBM Front-End Developer,5,Beginner Web Dev
+29,IBM Full Stack Software Developer,5,Beginner Web Dev
+29,Object-Oriented Data Structures in C++,3,Beginner Web Dev
+29,HTML and CSS in depth,4,Beginner Web Dev
+29,Introduction to Generative AI,2,Beginner Web Dev
+29,Architecting with Google Compute Engine,3,Beginner Web Dev
+29,The Business of Health Care,5,Beginner Web Dev
+29,Meta Back-End Developer,5,Beginner Web Dev
+29,First Principles of Computer Vision,3,Beginner Web Dev
+30,Introduction to Social Media Marketing,1,Data Science Aspirant
+30,Arts and Heritage Management,2,Data Science Aspirant
+30,Microsoft Power BI Data Analyst,5,Data Science Aspirant
+30,Learn SQL Basics for Data Science,4,Data Science Aspirant
+30,TensorFlow: Data and Deployment,5,Data Science Aspirant
+30,Probabilistic Graphical Models,3,Data Science Aspirant
+30,From Excel to Power BI,4,Data Science Aspirant
+30,Omnichannel Retail Strategy,1,Data Science Aspirant
+30,Teach English Now! Foundational Principles,4,Data Science Aspirant
+30,Entrepreneurship,4,Data Science Aspirant
+31,Introduction to Electronics,3,Data Science Aspirant
+31,Career Success,5,Data Science Aspirant
+31,Natural Language Processing in TensorFlow,2,Data Science Aspirant
+31,Introduction to Programming with MATLAB,4,Data Science Aspirant
+31,Machine Learning,5,Data Science Aspirant
+31,ChatGPT Advanced Data Analysis,4,Data Science Aspirant
+31,Introduction to Probability and Data with R,4,Data Science Aspirant
+31,Learn English: Advanced Grammar and Punctuation,3,Data Science Aspirant
+31,"Food Sustainability, Mindful Eating, and Healthy Cooking",5,Data Science Aspirant
+31,Marketing en redes sociales de Meta,2,Data Science Aspirant
+32,Data Analytics in the Public Sector with R,5,Data Science Aspirant
+32,AI Applications in Marketing and Finance,1,Data Science Aspirant
+32,Good with Words: Writing and Editing,3,Data Science Aspirant
+32,Introduction to Agile Development and Scrum,1,Data Science Aspirant
+32,Applied Software Engineering Fundamentals,5,Data Science Aspirant
+32,Digital Marketing Strategy and Planning,4,Data Science Aspirant
+32,Machine Learning Foundations for Product Managers,3,Data Science Aspirant
+32,Agile Leadership,1,Data Science Aspirant
+32,What is Compliance?,1,Data Science Aspirant
+32,Negotiations,3,Data Science Aspirant
+33,Excel to MySQL: Analytic Techniques for Business,5,Data Science Aspirant
+33,SQL for Data Science,5,Data Science Aspirant
+33,Exam Prep MLS-C01: AWS Certified Specialty Machine Learning,5,Data Science Aspirant
+33,Introduction to Marketing,4,Data Science Aspirant
+33,Deep Learning,4,Data Science Aspirant
+33,From Data to Insights with Google Cloud,5,Data Science Aspirant
+33,Conduct UX Research and Test Early Concepts,5,Data Science Aspirant
+33,AI for Good,5,Data Science Aspirant
+33,Introduction to Logic and Critical Thinking,4,Data Science Aspirant
+33,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),1,Data Science Aspirant
+34,Data Science Fundamentals with Python and SQL,4,Data Science Aspirant
+34,Introduction to Data Science,5,Data Science Aspirant
+34,Deep Learning,4,Data Science Aspirant
+34,Introduction to Git and GitHub,1,Data Science Aspirant
+34,Machine Learning,5,Data Science Aspirant
+34,Google Data Analytics,5,Data Science Aspirant
+34,Data Literacy,3,Data Science Aspirant
+34,Linear Circuits 1: DC Analysis,1,Data Science Aspirant
+34,Bookkeeping Basics,5,Data Science Aspirant
+34,Getting Started with Power BI Desktop,5,Data Science Aspirant
+35,Applied Data Science with Python,5,Data Science Aspirant
+35,From Excel to Power BI,5,Data Science Aspirant
+35,IBM Machine Learning,5,Data Science Aspirant
+35,Real-World Product Management,5,Data Science Aspirant
+35,Fundamentals of Engineering Exam Review,3,Data Science Aspirant
+35,IBM Data Analyst,4,Data Science Aspirant
+35,Machine Learning with Python,5,Data Science Aspirant
+35,Inspired Leadership,2,Data Science Aspirant
+35,Project Planning,4,Data Science Aspirant
+35,The Strategy of Content Marketing,5,Data Science Aspirant
+36,Computer Vision for Engineering and Science,5,Data Science Aspirant
+36,Introduction to Scrum Master Training,5,Data Science Aspirant
+36,Fundamentals of GIS,2,Data Science Aspirant
+36,Introduction to Marketing,4,Data Science Aspirant
+36,Akamai Network Engineering,1,Data Science Aspirant
+36,Machine Learning Data Lifecycle in Production,5,Data Science Aspirant
+36,An Introduction to Programming the Internet of Things (IOT),4,Data Science Aspirant
+36,Getting Started with Git and GitHub,3,Data Science Aspirant
+36,Get Started with Python,5,Data Science Aspirant
+36,Scrum Master,3,Data Science Aspirant
+37,Python 3 Programming,3,Data Science Aspirant
+37,Introduction to Machine Learning in Production,2,Data Science Aspirant
+37,IBM Data Analyst,4,Data Science Aspirant
+37,Social and Economic Networks:  Models and Analysis,2,Data Science Aspirant
+37,Supervised Machine Learning: Regression and Classification,5,Data Science Aspirant
+37,Introduction to Machine Learning,5,Data Science Aspirant
+37,Arts and Heritage Management,1,Data Science Aspirant
+37,Data Analysis with R,1,Data Science Aspirant
+37,Global Diplomacy: the United Nations in the World,5,Data Science Aspirant
+37,Essentials of Global Health,1,Data Science Aspirant
+38,Digital Fashion Innovation,5,Data Science Aspirant
+38,Reinforcement Learning,5,Data Science Aspirant
+38,Google Cloud Big Data and Machine Learning Fundamentals,5,Data Science Aspirant
+38,Security Analyst Fundamentals,3,Data Science Aspirant
+38,AI for Medicine,5,Data Science Aspirant
+38,Survey Data Collection and Analytics,5,Data Science Aspirant
+38,Introduction to Scripting in Python,5,Data Science Aspirant
+38,CVS Health Call Center Customer Service,3,Data Science Aspirant
+38,Innovation Management,4,Data Science Aspirant
+38,COVID-19 Contact Tracing,5,Data Science Aspirant
+39,Drug Development Product Management,3,Data Science Aspirant
+39,Introduction to Programming with MATLAB,5,Data Science Aspirant
+39,Corporate Strategy,5,Data Science Aspirant
+39,Architecting with Google Compute Engine,4,Data Science Aspirant
+39,Data Engineering Foundations,4,Data Science Aspirant
+39,"Python, Bash and SQL Essentials for Data Engineering",3,Data Science Aspirant
+39,Analyze Data to Answer Questions,4,Data Science Aspirant
+39,Introduction to Dental Medicine,5,Data Science Aspirant
+39,Software Architecture for Big Data,1,Data Science Aspirant
+39,Writing in the Sciences,1,Data Science Aspirant
+40,Learn SQL Basics for Data Science,5,Data Science Aspirant
+40,Qualitative Research Design and Methods for Public Health,5,Data Science Aspirant
+40,Natural Language Processing in TensorFlow,3,Data Science Aspirant
+40,Mathematics for Machine Learning: Linear Algebra,4,Data Science Aspirant
+40,Data Warehousing for Business Intelligence,2,Data Science Aspirant
+40,AI For Business,3,Data Science Aspirant
+40,Corporate Strategy,4,Data Science Aspirant
+40,Dino 101: Dinosaur Paleobiology,2,Data Science Aspirant
+40,Prompt Engineering for ChatGPT,1,Data Science Aspirant
+40,Get Started with Python,3,Data Science Aspirant
+41,Excel Skills for Data Analytics and Visualization,3,Data Science Aspirant
+41,Foundations of Software Testing and Validation,2,Data Science Aspirant
+41,Understanding Clinical Research: Behind the Statistics,4,Data Science Aspirant
+41,Introduction to AI in the Data Center,1,Data Science Aspirant
+41,Meta Marketing Analytics,5,Data Science Aspirant
+41,Blockchain,5,Data Science Aspirant
+41,IBM AI Engineering,4,Data Science Aspirant
+41,IBM AI Foundations for Business,5,Data Science Aspirant
+41,AI and Climate Change,1,Data Science Aspirant
+41,Addiction Treatment: Clinical Skills for Healthcare Providers,1,Data Science Aspirant
+42,Fundamentals of Machine Learning for Healthcare,4,Data Science Aspirant
+42,Excel Fundamentals for Data Analysis,5,Data Science Aspirant
+42,Using Python to Interact with the Operating System,2,Data Science Aspirant
+42,Analyze Datasets and Train ML Models using AutoML,2,Data Science Aspirant
+42,Applied Data Science with R,5,Data Science Aspirant
+42,Chemicals and Health,5,Data Science Aspirant
+42,"Songwriting: Writing, Arranging, and Producing Music",5,Data Science Aspirant
+42,Write Professional Emails in English,1,Data Science Aspirant
+42,IBM IT Scrum Master,3,Data Science Aspirant
+43,Meta Back-End Developer,5,Data Science Aspirant
+43,Fundamentals of Social Media Advertising,3,Data Science Aspirant
+43,Introduction to Deep Learning & Neural Networks with Keras,3,Data Science Aspirant
+43,Data Visualization with Python,5,Data Science Aspirant
+43,The Power of Statistics,4,Data Science Aspirant
+43,Security Analyst Fundamentals,5,Data Science Aspirant
+43,Essentials in Clinical Simulations Across the Health Professions,4,Data Science Aspirant
+43,Introduction to Electronics,5,Data Science Aspirant
+43,"Effective Communication: Writing, Design, and Presentation",5,Data Science Aspirant
+44,TensorFlow: Data and Deployment,3,Data Science Aspirant
+44,Probabilistic Graphical Models,5,Data Science Aspirant
+44,Blockchain Revolution,4,Data Science Aspirant
+44,"Spark, Hadoop, and Snowflake for Data Engineering",1,Data Science Aspirant
+44,An Introduction to Programming the Internet of Things (IOT),2,Data Science Aspirant
+44,Arts and Heritage Management,5,Data Science Aspirant
+44,Data Analysis with R,4,Data Science Aspirant
+44,Mergers and Acquisitions,1,Data Science Aspirant
+44,IT Fundamentals for Cybersecurity,5,Data Science Aspirant
+44,Project Planning,5,Data Science Aspirant
+45,Fundamentals of Engineering Exam Review,5,Data Science Aspirant
+45,Foundations of Business Strategy,2,Data Science Aspirant
+45,Applied Data Science with R,5,Data Science Aspirant
+45,Social and Economic Networks:  Models and Analysis,3,Data Science Aspirant
+45,Data Science Foundations: Statistical Inference,2,Data Science Aspirant
+45,Nuts and Bolts of U.S. Immigration Law,5,Data Science Aspirant
+45,Google Cybersecurity,5,Data Science Aspirant
+45,Project Execution: Running the Project,1,Data Science Aspirant
+45,Introduction to Spreadsheets and Models,2,Data Science Aspirant
+45,Power Electronics,5,Data Science Aspirant
+46,AI and Public Health,3,Data Science Aspirant
+46,Foundations of Data Structures and Algorithms,5,Data Science Aspirant
+46,Data Engineering Foundations,5,Data Science Aspirant
+46,Data Analysis with R,2,Data Science Aspirant
+46,Learn SQL Basics for Data Science,4,Data Science Aspirant
+46,Microsoft Azure Data Scientist Associate (DP-100),5,Data Science Aspirant
+46,Google IT Support (Deutsch),5,Data Science Aspirant
+46,Soporte de Tecnologías de la Información de Google,4,Data Science Aspirant
+46,American Contract Law I,5,Data Science Aspirant
+46,IBM Applied DevOps Engineering,4,Data Science Aspirant
+47,Data Analysis and Presentation Skills: the PwC Approach,5,Data Science Aspirant
+47,IBM Data Analyst,1,Data Science Aspirant
+47,Python for Everybody,2,Data Science Aspirant
+47,Machine Learning on Google Cloud,2,Data Science Aspirant
+47,Generative Adversarial Networks (GANs),4,Data Science Aspirant
+47,AI Foundations for Everyone,5,Data Science Aspirant
+47,Google Business Intelligence,5,Data Science Aspirant
+47,Medical Billing and Coding Fundamentals,5,Data Science Aspirant
+47,Robotics,3,Data Science Aspirant
+47,Design Thinking,4,Data Science Aspirant
+48,Advanced Machine Learning on Google Cloud,3,Data Science Aspirant
+48,Object Oriented Programming in Java,5,Data Science Aspirant
+48,Data Science,5,Data Science Aspirant
+48,Six Sigma Black Belt,5,Data Science Aspirant
+48,Advanced Business Analytics,3,Data Science Aspirant
+48,Build Wireframes and Low-Fidelity Prototypes,5,Data Science Aspirant
+48,Introduction to Systematic Review and Meta-Analysis,2,Data Science Aspirant
+48,User Interface Design,4,Data Science Aspirant
+48,Soporte de Tecnologías de la Información de Google,3,Data Science Aspirant
+49,Machine Learning,5,Data Science Aspirant
+49,Ask Questions to Make Data-Driven Decisions,5,Data Science Aspirant
+49,Advanced Learning Algorithms,2,Data Science Aspirant
+49,IBM Data Analytics with Excel and R,5,Data Science Aspirant
+49,Data-driven Decision Making,4,Data Science Aspirant
+49,Data Visualization and Dashboards with Excel and Cognos,4,Data Science Aspirant
+49,IBM AI Engineering,3,Data Science Aspirant
+49,Generative AI for Everyone,5,Data Science Aspirant
+49,Introduction to Programming with Python and Java,4,Data Science Aspirant
+49,Information Technology (IT) and Cloud Fundamentals,5,Data Science Aspirant
+50,Drug Development Product Management,3,Data Science Aspirant
+50,Developing Front-End Apps with React,5,Data Science Aspirant
+50,Expressway to Data Science: Python Programming,5,Data Science Aspirant
+50,Automate Cybersecurity Tasks with Python,4,Data Science Aspirant
+50,Applied Data Science Capstone,5,Data Science Aspirant
+50,Introduction to Computers and Operating Systems and Security,5,Data Science Aspirant
+50,AI Applications in Marketing and Finance,3,Data Science Aspirant
+50,Formal Financial Accounting,5,Data Science Aspirant
+50,Developing APIs with Google Cloud's Apigee API Platform,3,Data Science Aspirant
+50,Preparing for Google Cloud Certification: Cloud DevOps Engineer,5,Data Science Aspirant
+51,Epidemiology in Public Health Practice,2,Data Science Aspirant
+51,"Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",5,Data Science Aspirant
+51,AI for Good,5,Data Science Aspirant
+51,Introduction to Machine Learning in Production,2,Data Science Aspirant
+51,Computer Vision for Engineering and Science,3,Data Science Aspirant
+51,Foundations of Digital Marketing and E-commerce,3,Data Science Aspirant
+51,Business Sustainability in the Circular Economy,5,Data Science Aspirant
+51,Chemicals and Health,4,Data Science Aspirant
+51,Astronomy: Exploring Time and Space,5,Data Science Aspirant
+51,Troubles du spectre de l'autisme : diagnostic,4,Data Science Aspirant
+52,Meta Back-End Developer,5,Data Science Aspirant
+52,Fundamentals of Machine Learning for Healthcare,5,Data Science Aspirant
+52,Business Statistics and Analysis,4,Data Science Aspirant
+52,Google Cybersecurity,5,Data Science Aspirant
+52,People and Soft Skills for Professional and Personal Success,5,Data Science Aspirant
+52,Data Management for Clinical Research,4,Data Science Aspirant
+52,Go Beyond the Numbers: Translate Data into Insights,2,Data Science Aspirant
+52,Introduction to Psychology,4,Data Science Aspirant
+52,"Songwriting: Writing, Arranging, and Producing Music",1,Data Science Aspirant
+52,IBM Data Science,4,Data Science Aspirant
+53,Healing with the Arts,3,Data Science Aspirant
+53,MLOps | Machine Learning Operations,5,Data Science Aspirant
+53,"BI Foundations with SQL, ETL and Data Warehousing",4,Data Science Aspirant
+53,"Python, Bash and SQL Essentials for Data Engineering",4,Data Science Aspirant
+53,Machine Learning with Python,4,Data Science Aspirant
+53,Introduction to Sustainability,5,Data Science Aspirant
+53,C Programming with Linux,5,Data Science Aspirant
+53,Model Thinking,1,Data Science Aspirant
+53,Climate Change and Sustainable Investing,4,Data Science Aspirant
+53,Financial Accounting Fundamentals,4,Data Science Aspirant
+54,Design a User Experience for Social Good & Prepare for Jobs,5,Data Science Aspirant
+54,"Extract, Transform and Load Data in Power BI",3,Data Science Aspirant
+54,Learn to Program: The Fundamentals,4,Data Science Aspirant
+54,Build Wireframes and Low-Fidelity Prototypes,4,Data Science Aspirant
+54,Fundamentals of GIS,2,Data Science Aspirant
+54,Microsoft Power Platform Fundamentals,4,Data Science Aspirant
+54,Investment Management with Python and Machine Learning,4,Data Science Aspirant
+54,تحليلات البيانات من Google,3,Data Science Aspirant
+54,Data Visualization with Python,4,Data Science Aspirant
+54,Introduction to Scrum Master Training,5,Data Science Aspirant
+55,Natural Language Processing with Probabilistic Models,2,Data Science Aspirant
+55,Excel Basics for Data Analysis,4,Data Science Aspirant
+55,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",5,Data Science Aspirant
+55,AI Applications in People Management,5,Data Science Aspirant
+55,Getting started with Google Workspace,5,Data Science Aspirant
+55,Methods and Statistics in Social Sciences,5,Data Science Aspirant
+55,Digitalisation in Aeronautics and Space,3,Data Science Aspirant
+55,Google IT Support,5,Data Science Aspirant
+55,Introduction to Public Relations and the Media,1,Data Science Aspirant
+55,The Business of Music Production,4,Data Science Aspirant
+56,IBM Data Analytics with Excel and R,5,Data Science Aspirant
+56,Introduction to Deep Learning & Neural Networks with Keras,5,Data Science Aspirant
+56,Crash Course on Python,3,Data Science Aspirant
+56,Google IT Automation with Python,4,Data Science Aspirant
+56,Google Cloud Database Engineer,4,Data Science Aspirant
+56,Object-Oriented Data Structures in C++,3,Data Science Aspirant
+56,Using Python to Interact with the Operating System,1,Data Science Aspirant
+56,Finanzas corporativas,4,Data Science Aspirant
+56,Strategic Management and Innovation,4,Data Science Aspirant
+56,Applied Computational Fluid Dynamics,3,Data Science Aspirant
+57,Business Statistics and Analysis,2,Data Science Aspirant
+57,IBM DevOps and Software Engineering,5,Data Science Aspirant
+57,Preparing  Data for Analysis with Microsoft Excel,4,Data Science Aspirant
+57,Java Programming and Software Engineering Fundamentals,4,Data Science Aspirant
+57,IBM Data Analytics with Excel and R,4,Data Science Aspirant
+57,Statistical Analysis with R for Public Health,2,Data Science Aspirant
+57,AI For Everyone,5,Data Science Aspirant
+57,IBM Mainframe Developer,3,Data Science Aspirant
+57,Terrorism and Counterterrorism: Comparing Theory and Practice,3,Data Science Aspirant
+57,Social Media Marketing in Practice,4,Data Science Aspirant
+58,Introduction to Computers and Operating Systems and Security,4,Data Science Aspirant
+58,Mathematics for Machine Learning: Linear Algebra,5,Data Science Aspirant
+58,Data Analytics in the Public Sector with R,4,Data Science Aspirant
+58,Data Analysis with Python,5,Data Science Aspirant
+58,Natural Language Processing with Attention Models,5,Data Science Aspirant
+58,Introduction to Programming with MATLAB,4,Data Science Aspirant
+58,Microsoft Power BI Data Analyst,4,Data Science Aspirant
+58,Inspired Leadership,5,Data Science Aspirant
+58,Exam Prep MLS-C01: AWS Certified Specialty Machine Learning,5,Data Science Aspirant
+58,Business Value and Project Management,2,Data Science Aspirant
+59,The Power of Statistics,3,Data Science Aspirant
+59,Machine Learning Data Lifecycle in Production,3,Data Science Aspirant
+59,Meta Back-End Developer,3,Data Science Aspirant
+59,Career Success,5,Data Science Aspirant
+59,IBM AI Engineering,5,Data Science Aspirant
+59,Managerial Economics and Business Analysis,5,Data Science Aspirant
+59,Fundamentals of Social Media Advertising,5,Data Science Aspirant
+59,Learning and Development,5,Data Science Aspirant
+59,Computational Social Science,3,Data Science Aspirant
+59,Customer Experiences with Contact Center AI - Dialogflow CX,5,Data Science Aspirant
+60,Data Analysis with Python,1,Data Science Aspirant
+60,SQL for Data Science,2,Data Science Aspirant
+60,Cloud-Native Development with OpenShift and Kubernetes,5,Data Science Aspirant
+60,Natural Language Processing with Classification and Vector Spaces,3,Data Science Aspirant
+60,Data Analysis and Presentation Skills: the PwC Approach,5,Data Science Aspirant
+60,Using Python to Access Web Data,4,Data Science Aspirant
+60,Microsoft Azure AI Fundamentals AI-900 Exam Prep,4,Data Science Aspirant
+60,AI Applications in People Management,1,Data Science Aspirant
+60,IBM Cybersecurity Analyst,5,Data Science Aspirant
+60,TOEFL Preparation,3,Data Science Aspirant
+61,Natural Language Processing with Attention Models,5,Data Science Aspirant
+61,IBM Applied DevOps Engineering,5,Data Science Aspirant
+61,Fractal Data Science,5,Data Science Aspirant
+61,Python and Statistics for Financial Analysis,4,Data Science Aspirant
+61,Introducción a la programación en Python I: Aprendiendo a programar con Python,2,Data Science Aspirant
+61,Fundamentals of Social Media Advertising,5,Data Science Aspirant
+61,Go Beyond the Numbers: Translate Data into Insights,1,Data Science Aspirant
+61,Salesforce Sales Development Representative,5,Data Science Aspirant
+61,COVID-19 Contact Tracing,5,Data Science Aspirant
+61,Microsoft Azure Fundamentals AZ-900 Exam Prep,3,Data Science Aspirant
+62,Data Science: Statistics and Machine Learning,5,Data Science Aspirant
+62,Chemicals and Health,4,Data Science Aspirant
+62,IBM Introduction to Machine Learning,5,Data Science Aspirant
+62,Fundamentals of Machine Learning for Healthcare,4,Data Science Aspirant
+62,"Python, Bash and SQL Essentials for Data Engineering",3,Data Science Aspirant
+62,Introduction to Project Management,3,Data Science Aspirant
+62,Google Cloud Big Data and Machine Learning Fundamentals,5,Data Science Aspirant
+62,Cultural Competence - Aboriginal Sydney,4,Data Science Aspirant
+62,Agile Development,5,Data Science Aspirant
+62,Capstone: Applying Project Management in the Real World,2,Data Science Aspirant
+63,Real-World Product Management,5,Data Science Aspirant
+63,Introduction to Project Management,1,Data Science Aspirant
+63,Expressway to Data Science: Python Programming,2,Data Science Aspirant
+63,"Sequences, Time Series and Prediction",5,Data Science Aspirant
+63,IBM Data Analytics with Excel and R,5,Data Science Aspirant
+63,Creative Writing: The Craft of Plot,4,Data Science Aspirant
+63,From Excel to Power BI,5,Data Science Aspirant
+63,Data Science Math Skills,2,Data Science Aspirant
+63,Introduction to Data Science,2,Data Science Aspirant
+63,Market Research,5,Data Science Aspirant
+64,IBM Data Analytics with Excel and R,5,Data Science Aspirant
+64,Learn to Program: The Fundamentals,3,Data Science Aspirant
+64,Natural Language Processing with Classification and Vector Spaces,3,Data Science Aspirant
+64,AI and Public Health,3,Data Science Aspirant
+64,Foundations of Digital Marketing and E-commerce,4,Data Science Aspirant
+64,Developing APIs with Google Cloud's Apigee API Platform,4,Data Science Aspirant
+64,Python Project for Data Engineering,4,Data Science Aspirant
+64,Removing Barriers to Change,5,Data Science Aspirant
+64,Python Basics,3,Data Science Aspirant
+65,"Python Functions, Files, and Dictionaries",4,Data Science Aspirant
+65,Applied Software Engineering Fundamentals,3,Data Science Aspirant
+65,Managerial Economics and Business Analysis,2,Data Science Aspirant
+65,Introduction to Data Engineering,3,Data Science Aspirant
+65,Introduction to Project Management,3,Data Science Aspirant
+65,IBM AI Enterprise Workflow,3,Data Science Aspirant
+65,AI Fundamentals for Non-Data Scientists,4,Data Science Aspirant
+65,Preparing for Google Cloud Certification: Cloud Engineer,5,Data Science Aspirant
+65,Sales Training for High Performing Teams,5,Data Science Aspirant
+65,Introduction to User Experience Design,1,Data Science Aspirant
+66,Computer Vision for Engineering and Science,5,Data Science Aspirant
+66,Excel/VBA for Creative Problem Solving,2,Data Science Aspirant
+66,The Business of Health Care,3,Data Science Aspirant
+66,Corporate Strategy,4,Data Science Aspirant
+66,Climate Change and Sustainable Investing,2,Data Science Aspirant
+66,Introduction to Programming with MATLAB,5,Data Science Aspirant
+66,Meta Marketing Analytics,5,Data Science Aspirant
+66,Build Wireframes and Low-Fidelity Prototypes,3,Data Science Aspirant
+66,IBM Project Manager,3,Data Science Aspirant
+66,The Path to Insights: Data Models and Pipelines,2,Data Science Aspirant
+67,"Spark, Hadoop, and Snowflake for Data Engineering",5,Data Science Aspirant
+67,Tools for Data Science,5,Data Science Aspirant
+67,Analyze Datasets and Train ML Models using AutoML,4,Data Science Aspirant
+67,AI Product Management,5,Data Science Aspirant
+67,Introduction to Software Engineering,5,Data Science Aspirant
+67,"Foundations: Data, Data, Everywhere",1,Data Science Aspirant
+67,Microsoft Azure Data Scientist Associate (DP-100),4,Data Science Aspirant
+67,Finance for Technical Managers,3,Data Science Aspirant
+67,Fundamentals of Technology Sales,2,Data Science Aspirant
+68,Supervised Machine Learning: Regression and Classification,5,Data Science Aspirant
+68,Introduction to Machine Learning in Production,3,Data Science Aspirant
+68,Corporate Strategy,1,Data Science Aspirant
+68,Machine Learning Modeling Pipelines in Production,3,Data Science Aspirant
+68,Data Engineering Foundations,4,Data Science Aspirant
+68,Climate Change and Sustainable Investing,5,Data Science Aspirant
+68,Machine Learning and Reinforcement Learning in Finance,5,Data Science Aspirant
+68,Assess for Success: Marketing Analytics and Measurement,1,Data Science Aspirant
+68,Learn to Program: The Fundamentals,4,Data Science Aspirant
+68,Blockchain,5,Data Science Aspirant
+69,Machine Learning on Google Cloud,5,Data Science Aspirant
+69,Expressway to Data Science: Python Programming,2,Data Science Aspirant
+69,Learn to Program: The Fundamentals,4,Data Science Aspirant
+69,IBM Full Stack Software Developer,2,Data Science Aspirant
+69,Exam Prep MLS-C01: AWS Certified Specialty Machine Learning,3,Data Science Aspirant
+69,"Extract, Transform and Load Data in Power BI",3,Data Science Aspirant
+69,Introduction to Agile Development and Scrum,2,Data Science Aspirant
+69,Digital Fashion Innovation,4,Data Science Aspirant
+69,OKR Certification: Leadership and Goal Setting,3,Data Science Aspirant
+69,Object-Oriented Data Structures in C++,3,Data Science Aspirant
+70,"Negotiation, Mediation and Conflict Resolution",5,Advanced AI Researcher
+70,First Step Korean,4,Advanced AI Researcher
+70,IBM Data Analyst,4,Advanced AI Researcher
+70,Leadership Skills,2,Advanced AI Researcher
+70,Corporate & Commercial Law I: Contracts & Employment Law,5,Advanced AI Researcher
+70,"Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",2,Advanced AI Researcher
+70,DeepLearning.AI TensorFlow Developer,4,Advanced AI Researcher
+70,Introduction to Mathematical Thinking,5,Advanced AI Researcher
+70,Introduction to Discrete Mathematics for Computer Science,1,Advanced AI Researcher
+70,IBM Cybersecurity Analyst,1,Advanced AI Researcher
+71,IBM AI Engineering,5,Advanced AI Researcher
+71,IBM Applied AI,5,Advanced AI Researcher
+71,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",5,Advanced AI Researcher
+71,Generative Adversarial Networks (GANs),3,Advanced AI Researcher
+71,Introduction to Agile Development and Scrum,2,Advanced AI Researcher
+71,Microsoft Azure AI Fundamentals AI-900 Exam Prep,3,Advanced AI Researcher
+71,Meta Marketing Analytics,3,Advanced AI Researcher
+71,Introduction to Computers and Operating Systems and Security,2,Advanced AI Researcher
+71,The Business of Music Production,4,Advanced AI Researcher
+72,Natural Language Processing with Attention Models,5,Advanced AI Researcher
+72,AI for Good,2,Advanced AI Researcher
+72,Career Success,2,Advanced AI Researcher
+72,IBM Applied AI,4,Advanced AI Researcher
+72,Corporate & Commercial Law I: Contracts & Employment Law,5,Advanced AI Researcher
+72,Conflict Management,4,Advanced AI Researcher
+72,ChatGPT Playground for Beginners: Intro to NLP AI,3,Advanced AI Researcher
+72,Machine Learning Modeling Pipelines in Production,4,Advanced AI Researcher
+72,Understanding Clinical Research: Behind the Statistics,3,Advanced AI Researcher
+72,Suicide Prevention,2,Advanced AI Researcher
+73,IBM Data Analyst,4,Advanced AI Researcher
+73,Natural Language Processing with Sequence Models,5,Advanced AI Researcher
+73,Introduction to Back-End Development,2,Advanced AI Researcher
+73,"Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",4,Advanced AI Researcher
+73,Structuring Machine Learning Projects,1,Advanced AI Researcher
+73,Desarrollador front-end de Meta,3,Advanced AI Researcher
+73,Supervised Machine Learning: Regression and Classification,5,Advanced AI Researcher
+73,UI / UX Design,1,Advanced AI Researcher
+73,Using Python to Interact with the Operating System,2,Advanced AI Researcher
+73,Introduction to Clinical Data,3,Advanced AI Researcher
+74,Machine Learning Engineering for Production (MLOps),4,Advanced AI Researcher
+74,Convolutional Neural Networks,4,Advanced AI Researcher
+74,Machine Learning,5,Advanced AI Researcher
+74,Design Thinking,5,Advanced AI Researcher
+74,"Sequences, Time Series and Prediction",4,Advanced AI Researcher
+74,IBM Applied AI,1,Advanced AI Researcher
+74,An Introduction to American Law,1,Advanced AI Researcher
+74,Genomic Data Science,2,Advanced AI Researcher
+75,Leadership Skills,5,Advanced AI Researcher
+75,Advanced Learning Algorithms,3,Advanced AI Researcher
+75,AI and Climate Change,2,Advanced AI Researcher
+75,Corporate Strategy,4,Advanced AI Researcher
+75,Applied Data Science Capstone,2,Advanced AI Researcher
+75,Introduction to Artificial Intelligence (AI),3,Advanced AI Researcher
+75,AI Applications in Marketing and Finance,2,Advanced AI Researcher
+75,Introduction to Social Media Marketing,2,Advanced AI Researcher
+75,Google Data Analytics (PT),3,Advanced AI Researcher
+75,Introduction to Git and GitHub,2,Advanced AI Researcher
+76,Convolutional Neural Networks,5,Advanced AI Researcher
+76,IBM Data Science,2,Advanced AI Researcher
+76,Deep Learning,3,Advanced AI Researcher
+76,"Sequences, Time Series and Prediction",5,Advanced AI Researcher
+76,"Unsupervised Learning, Recommenders, Reinforcement Learning",3,Advanced AI Researcher
+76,Natural Language Processing with Classification and Vector Spaces,5,Advanced AI Researcher
+76,Convolutional Neural Networks in TensorFlow,2,Advanced AI Researcher
+76,Exploratory Data Analysis for Machine Learning,2,Advanced AI Researcher
+76,Entrepreneurship: Growing Your Business,2,Advanced AI Researcher
+76,Cyber Security Fundamentals,1,Advanced AI Researcher
+77,Corporate & Commercial Law I: Contracts & Employment Law,5,Advanced AI Researcher
+77,Neural Networks and Deep Learning,5,Advanced AI Researcher
+77,Introduction to Back-End Development,2,Advanced AI Researcher
+77,"Sequences, Time Series and Prediction",2,Advanced AI Researcher
+77,IBM Applied AI,5,Advanced AI Researcher
+77,Advanced Data Science with IBM,3,Advanced AI Researcher
+77,Introduction to Computers and Operating Systems and Security,3,Advanced AI Researcher
+77,Game Theory,1,Advanced AI Researcher
+77,Preparing  Data for Analysis with Microsoft Excel,3,Advanced AI Researcher
+77,AI Foundations: Prompt Engineering with ChatGPT,3,Advanced AI Researcher
+78,IBM AI Engineering,3,Advanced AI Researcher
+78,Introduction to Back-End Development,4,Advanced AI Researcher
+78,Supervised Machine Learning: Regression and Classification,4,Advanced AI Researcher
+78,Design Thinking,4,Advanced AI Researcher
+78,Machine Learning Data Lifecycle in Production,5,Advanced AI Researcher
+78,Sequence Models,5,Advanced AI Researcher
+78,Deep Neural Networks with PyTorch,3,Advanced AI Researcher
+78,Arizona State University TESOL,2,Advanced AI Researcher
+78,"Organizational Leadership in Diversity, Equity & Inclusion",3,Advanced AI Researcher
+78,Microsoft Cybersecurity Analyst,4,Advanced AI Researcher
+79,First Step Korean,2,Advanced AI Researcher
+79,Getting Started with AI using IBM Watson,4,Advanced AI Researcher
+79,Design a User Experience for Social Good & Prepare for Jobs,3,Advanced AI Researcher
+79,AI for Good,4,Advanced AI Researcher
+79,Leadership Skills,2,Advanced AI Researcher
+79,Machine Learning with Python,5,Advanced AI Researcher
+79,Deploying Machine Learning Models in Production,5,Advanced AI Researcher
+79,Foundations of User Experience (UX) Design,3,Advanced AI Researcher
+79,Data Analytics in the Public Sector with R,2,Advanced AI Researcher
+79,Gestión de Proyectos de Google,4,Advanced AI Researcher
+80,Structuring Machine Learning Projects,3,Advanced AI Researcher
+80,AI Fundamentals for Non-Data Scientists,2,Advanced AI Researcher
+80,First Step Korean,4,Advanced AI Researcher
+80,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",5,Advanced AI Researcher
+80,AI for Medical Diagnosis,5,Advanced AI Researcher
+80,Career Success,3,Advanced AI Researcher
+80,Natural Language Processing in TensorFlow,5,Advanced AI Researcher
+80,Advanced Machine Learning on Google Cloud,5,Advanced AI Researcher
+80,Java FullStack Developer,4,Advanced AI Researcher
+80,Teach English Now! Foundational Principles,5,Advanced AI Researcher
+81,AI Foundations for Everyone,2,Advanced AI Researcher
+81,"Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",5,Advanced AI Researcher
+81,Corporate & Commercial Law I: Contracts & Employment Law,5,Advanced AI Researcher
+81,Structuring Machine Learning Projects,5,Advanced AI Researcher
+81,Corporate Strategy,4,Advanced AI Researcher
+81,Natural Language Processing with Classification and Vector Spaces,3,Advanced AI Researcher
+81,Advanced Learning Algorithms,5,Advanced AI Researcher
+81,Cloud Application Development Foundations,2,Advanced AI Researcher
+81,Cryptography I,1,Advanced AI Researcher
+82,Career Success,3,Advanced AI Researcher
+82,Natural Language Processing with Attention Models,3,Advanced AI Researcher
+82,Applied Data Science Capstone,2,Advanced AI Researcher
+82,Introduction to User Experience Design,5,Advanced AI Researcher
+82,"Sequences, Time Series and Prediction",5,Advanced AI Researcher
+82,Conflict Management,4,Advanced AI Researcher
+82,Introduction to Dental Medicine,4,Advanced AI Researcher
+82,IBM Data Science,5,Advanced AI Researcher
+82,Introduction to Computers and Operating Systems and Security,3,Advanced AI Researcher
+82,Foundations of User Experience (UX) Design,4,Advanced AI Researcher
+83,Design Thinking,5,Advanced AI Researcher
+83,Introduction to Deep Learning & Neural Networks with Keras,5,Advanced AI Researcher
+83,AI Applications in Marketing and Finance,4,Advanced AI Researcher
+83,IBM AI Engineering,5,Advanced AI Researcher
+83,First Principles of Computer Vision,5,Advanced AI Researcher
+83,Deep Neural Networks with PyTorch,4,Advanced AI Researcher
+83,"Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",4,Advanced AI Researcher
+83,Supply Chain Principles,1,Advanced AI Researcher
+83,Marketing en redes sociales de Meta,1,Advanced AI Researcher
+83,Advanced Business Analytics,1,Advanced AI Researcher
+84,Introduction to Agile Development and Scrum,2,Advanced AI Researcher
+84,AI for Good,2,Advanced AI Researcher
+84,Career Success,3,Advanced AI Researcher
+84,First Principles of Computer Vision,2,Advanced AI Researcher
+84,AI Foundations for Everyone,4,Advanced AI Researcher
+84,Neural Networks and Deep Learning,4,Advanced AI Researcher
+84,What is Data Science?,4,Advanced AI Researcher
+84,Search Engine Optimization (SEO),3,Advanced AI Researcher
+84,Social Psychology,1,Advanced AI Researcher
+84,"Effective Communication: Writing, Design, and Presentation",1,Advanced AI Researcher
+85,IBM AI Engineering,3,Advanced AI Researcher
+85,Applied Data Science Capstone,1,Advanced AI Researcher
+85,Advanced Data Science with IBM,3,Advanced AI Researcher
+85,Introduction to Computer Vision and Image Processing,3,Advanced AI Researcher
+85,Introduction to User Experience Design,4,Advanced AI Researcher
+85,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",5,Advanced AI Researcher
+85,First Step Korean,3,Advanced AI Researcher
+85,Renewable Energy,1,Advanced AI Researcher
+85,Project Management & Other Tools for Career Development,2,Advanced AI Researcher
+85,Sports Performance Analytics,5,Advanced AI Researcher
+86,AI Foundations for Everyone,3,Advanced AI Researcher
+86,Conflict Management,4,Advanced AI Researcher
+86,First Step Korean,5,Advanced AI Researcher
+86,Computer Vision for Engineering and Science,3,Advanced AI Researcher
+86,ChatGPT Playground for Beginners: Intro to NLP AI,5,Advanced AI Researcher
+86,AI for Good,3,Advanced AI Researcher
+86,Machine Learning with Python,1,Advanced AI Researcher
+86,Introduction to Front-End Development,2,Advanced AI Researcher
+86,Supply Chain Management,3,Advanced AI Researcher
+87,IBM Data Science,3,Advanced AI Researcher
+87,Reinforcement Learning,5,Advanced AI Researcher
+87,Introduction to Computer Vision and Image Processing,3,Advanced AI Researcher
+87,Neural Networks and Deep Learning,2,Advanced AI Researcher
+87,TensorFlow: Advanced Techniques,5,Advanced AI Researcher
+87,Applied Data Science Capstone,4,Advanced AI Researcher
+87,IBM Data Analyst,4,Advanced AI Researcher
+87,Introduction to Cybersecurity Tools & Cyber Attacks,4,Advanced AI Researcher
+87,AI Product Management,3,Advanced AI Researcher
+87,Introduction to Psychology,4,Advanced AI Researcher
+88,Deep Neural Networks with PyTorch,2,Advanced AI Researcher
+88,Introduction to Marketing,4,Advanced AI Researcher
+88,Natural Language Processing with Sequence Models,5,Advanced AI Researcher
+88,Deep Learning,1,Advanced AI Researcher
+88,Introduction to Agile Development and Scrum,3,Advanced AI Researcher
+88,Deploying Machine Learning Models in Production,5,Advanced AI Researcher
+88,IBM Data Analyst,3,Advanced AI Researcher
+88,Natural Language Processing in TensorFlow,4,Advanced AI Researcher
+88,Game Design and Development with Unity 2020,1,Advanced AI Researcher
+88,Google Cloud Big Data and Machine Learning Fundamentals,2,Advanced AI Researcher
+89,Reinforcement Learning,5,Advanced AI Researcher
+89,Corporate Strategy,2,Advanced AI Researcher
+89,What is Data Science?,4,Advanced AI Researcher
+89,"Negotiation, Mediation and Conflict Resolution",3,Advanced AI Researcher
+89,Convolutional Neural Networks,1,Advanced AI Researcher
+89,IBM Applied AI,1,Advanced AI Researcher
+89,Career Success,3,Advanced AI Researcher
+89,Google Project Management (PT),2,Advanced AI Researcher
+89,Terrorism and Counterterrorism: Comparing Theory and Practice,2,Advanced AI Researcher
+89,Gamification,2,Advanced AI Researcher
+90,Think like a CFO,5,Business Manager
+90,AWS Cloud Solutions Architect,2,Business Manager
+90,CompTIA a+_ network,4,Business Manager
+90,Financing and Investing in Infrastructure,4,Business Manager
+90,Business Value and Project Management,2,Business Manager
+90,Fundamentals of Technology Sales,4,Business Manager
+90,Financial Planning for Young Adults,1,Business Manager
+90,Advanced Embedded Linux Development,4,Business Manager
+90,Data Warehousing for Business Intelligence,5,Business Manager
+90,Sales and CRM Overview,3,Business Manager
+91,IBM Mainframe Developer,5,Business Manager
+91,Decentralized Finance (DeFi): The Future of Finance,5,Business Manager
+91,Data Science Foundations: Statistical Inference,5,Business Manager
+91,Conflict Management,3,Business Manager
+91,Managerial Accounting Fundamentals,1,Business Manager
+91,Managing Cybersecurity,4,Business Manager
+91,Business Analytics with Excel: Elementary to Advanced,5,Business Manager
+91,"Introduction to Financial Analysis - The ""Why?""",4,Business Manager
+91,UI / UX Design,1,Business Manager
+91,Google Project Management (PT),4,Business Manager
+92,Google Project Management,4,Business Manager
+92,Foundations of Business Strategy,5,Business Manager
+92,Generative AI for Everyone,5,Business Manager
+92,Innovation: From Creativity to Entrepreneurship,1,Business Manager
+92,Build Basic Generative Adversarial Networks (GANs),4,Business Manager
+92,A life with ADHD,4,Business Manager
+92,Statistics with Python,4,Business Manager
+92,Cryptography I,5,Business Manager
+92,Crash Course on Python,3,Business Manager
+92,Marketing digital e e-commerce do Google,5,Business Manager
+93,Fundamentals of Project Planning and Management,5,Business Manager
+93,IBM Applied DevOps Engineering,4,Business Manager
+93,Leading Healthcare Quality and Safety,3,Business Manager
+93,Principles of Sustainable Finance,5,Business Manager
+93,Project Planning: Putting It All Together,3,Business Manager
+93,Integrative Nursing,4,Business Manager
+93,Foundations of Business Intelligence,3,Business Manager
+93,Leading the Modern Day Business,5,Business Manager
+93,Viral Marketing and How to Craft Contagious Content,2,Business Manager
+93,Music Education for Teachers,3,Business Manager
+94,Palliative Care Always,4,Business Manager
+94,Introduction to Project Management,4,Business Manager
+94,Leadership Skills,3,Business Manager
+94,Foundations of Software Testing and Validation,5,Business Manager
+94,HRCI Human Resource Associate,3,Business Manager
+94,"Cybersecurity Roles, Processes & Operating System Security",5,Business Manager
+94,Learn Chinese: HSK Test Preparation,3,Business Manager
+94,Google Project Management (DE),5,Business Manager
+94,Fundamentals of Finance,3,Business Manager
+94,Google サイバーセキュリティ,4,Business Manager
+95,Investment and Portfolio Management,4,Business Manager
+95,Behavioral Finance,4,Business Manager
+95,Entrepreneurship Strategy: From Ideation to Exit,5,Business Manager
+95,Water Cooperation and Diplomacy,4,Business Manager
+95,Financial Engineering and Risk Management,4,Business Manager
+95,Cybersecurity,5,Business Manager
+95,Circular Economy - Sustainable Materials Management,3,Business Manager
+95,Google UX Design,3,Business Manager
+95,Creating Business Value with Data and Looker,1,Business Manager
+95,Foundations of Management,5,Business Manager
+96,Business Data Management and Communication,5,Business Manager
+96,Connected Leadership,4,Business Manager
+96,Intellectual Property Law,5,Business Manager
+96,IBM IT Project Manager,5,Business Manager
+96,Project Execution,4,Business Manager
+96,Software Product Management,3,Business Manager
+96,Foundations of Software Testing and Validation,4,Business Manager
+96,Statistical Analysis with R for Public Health,5,Business Manager
+96,Big Data,1,Business Manager
+96,Security Principles,2,Business Manager
+97,Project Management & Other Tools for Career Development,1,Business Manager
+97,Essentials of Global Health,5,Business Manager
+97,Understanding Einstein: The Special Theory of Relativity,5,Business Manager
+97,Coaching Skills for Managers,1,Business Manager
+97,IBM Project Manager,4,Business Manager
+97,Finance for Technical Managers,4,Business Manager
+97,Personal Branding: Stand Out and Succeed,3,Business Manager
+97,Google IT Support (Deutsch),4,Business Manager
+97,Introduction to Electronics,3,Business Manager
+97,The Art of Visual Storytelling,4,Business Manager
+98,Machine Learning Foundations for Product Managers,5,Business Manager
+98,Get Started with Python,5,Business Manager
+98,Data Engineering Foundations,3,Business Manager
+98,Managerial Accounting Fundamentals,5,Business Manager
+98,Patient Safety,5,Business Manager
+98,Goodwill® Career Coach and Navigator,4,Business Manager
+98,Introduction to Industrial Bioprocess Development,3,Business Manager
+98,Sound the Alarm: Detection and Response,5,Business Manager
+98,Supervised Machine Learning: Regression and Classification,1,Business Manager
+98,Sales and CRM Overview,5,Business Manager
+99,Climate Change and Sustainable Investing,4,Business Manager
+99,Computational Thinking for Problem Solving,2,Business Manager
+99,Introduction to Finance and Accounting,5,Business Manager
+99,Introduction to Data Science,3,Business Manager
+99,"Cybersecurity Roles, Processes & Operating System Security",2,Business Manager
+99,Digital Technologies and the Future of Manufacturing,4,Business Manager
+99,Executive Data Science,4,Business Manager
+99,ChatGPT for Beginners: Save time with Microsoft Excel,3,Business Manager
+99,Learn Spanish: Basic Spanish Vocabulary,4,Business Manager
+99,The Singer Songwriter,2,Business Manager
+100,Entrepreneurship Strategy: From Ideation to Exit,4,Business Manager
+100,Introduction to Forensic Science,5,Business Manager
+100,Climate Change and Sustainable Investing,5,Business Manager
+100,"Modern Robotics:  Mechanics, Planning, and Control",1,Business Manager
+100,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",3,Business Manager
+100,People Analytics,4,Business Manager
+100,Competitive Strategy and Organization Design,5,Business Manager
+100,Cybersécurité Google,1,Business Manager
+100,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",5,Business Manager
+100,Behavioral Finance,4,Business Manager
+101,Integrative Health and Medicine,5,Business Manager
+101,Computational Thinking for Problem Solving,5,Business Manager
+101,Harnessing the Power of Data with Power BI,4,Business Manager
+101,Business Strategy,5,Business Manager
+101,"Project Management Foundations, Initiation, and Planning",5,Business Manager
+101,Inspired Leadership,5,Business Manager
+101,Supply Chain Analytics,4,Business Manager
+101,BIM Fundamentals for Engineers,5,Business Manager
+101,AWS Cloud Practitioner Essentials,5,Business Manager
+101,Google Professional Workspace Administrator,5,Business Manager
+102,Business Foundations,4,Business Manager
+102,People Analytics,5,Business Manager
+102,SAP Professional Fundamentals,4,Business Manager
+102,Meta Social Media Marketing,3,Business Manager
+102,ESG Risks and Opportunities,3,Business Manager
+102,"Spark, Hadoop, and Snowflake for Data Engineering",3,Business Manager
+102,Everyday Excel,3,Business Manager
+102,IBM Applied AI,4,Business Manager
+102,Organizational Analysis,5,Business Manager
+102,Scrum Master,5,Business Manager
+103,Satisfaction Guaranteed: Develop Customer Loyalty Online,5,Business Manager
+103,The Strategy of Content Marketing,4,Business Manager
+103,Strategic Leadership and Management,4,Business Manager
+103,Talent Acquisition,3,Business Manager
+103,UCI Project Management,5,Business Manager
+103,The Business of Health Care,5,Business Manager
+103,AWS Cloud Technical Essentials,2,Business Manager
+103,Salesforce Sales Operations,5,Business Manager
+103,Akamai Customer Consulting and Support,2,Business Manager
+103,Understanding the Brain: The Neurobiology of Everyday Life,2,Business Manager
+104,Computational Thinking for Problem Solving,4,Business Manager
+104,Successful Negotiation: Essential Strategies and Skills,4,Business Manager
+104,Teamwork Skills: Communicating Effectively in Groups,3,Business Manager
+104,IBM IT Project Manager,4,Business Manager
+104,Introduction to Cyber Security,2,Business Manager
+104,Statistics with Python,5,Business Manager
+104,Digital Product Management: Modern Fundamentals,4,Business Manager
+104,Build Wireframes and Low-Fidelity Prototypes,3,Business Manager
+104,Improving Leadership & Governance in Nonprofit Organizations,5,Business Manager
+104,Understanding Research Methods,5,Business Manager
+105,Nuts and Bolts of U.S. Immigration Law,3,Business Manager
+105,Data Management for Clinical Research,5,Business Manager
+105,Value-Based Care,3,Business Manager
+105,Bayesian Statistics,5,Business Manager
+105,Introduction to Financial Accounting,4,Business Manager
+105,English for Career Development,3,Business Manager
+105,Battery Technologies,5,Business Manager
+105,Business and Financial Modeling,3,Business Manager
+105,Introduction to Systematic Review and Meta-Analysis,5,Business Manager
+105,Linear Algebra for Machine Learning and Data Science,5,Business Manager
+106,Marketing Mix Implementation,3,Business Manager
+106,Assess for Success: Marketing Analytics and Measurement,5,Business Manager
+106,Entrepreneurial Finance: Strategy and Innovation,4,Business Manager
+106,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",5,Business Manager
+106,Crash Course on Python,4,Business Manager
+106,Digital Signal Processing,5,Business Manager
+106,Embedding Sensors and Motors,4,Business Manager
+106,The Science of Well-Being,3,Business Manager
+106,Aspectos básicos del diseño de la experiencia del usuario,5,Business Manager
+106,Biostatistics in Public Health,3,Business Manager
+107,A life with ADHD,3,Business Manager
+107,Fundamentals of Flight mechanics,1,Business Manager
+107,Regulatory Compliance,2,Business Manager
+107,AWS Cloud Solutions Architect,2,Business Manager
+107,Financial Planning for Young Adults,4,Business Manager
+107,Harnessing the Power of Data with Power BI,4,Business Manager
+107,International Organizations Management,5,Business Manager
+107,Data Analysis and Presentation Skills: the PwC Approach,2,Business Manager
+107,System Administration and IT Infrastructure Services,3,Business Manager
+107,Google Project Management (DE),2,Business Manager
+108,AI for Good,2,Business Manager
+108,English for Career Development,5,Business Manager
+108,IBM & Darden Digital Strategy,4,Business Manager
+108,Design a User Experience for Social Good & Prepare for Jobs,5,Business Manager
+108,Digital Marketing,4,Business Manager
+108,Play It Safe: Manage Security Risks,5,Business Manager
+108,GPU Programming,4,Business Manager
+108,Introduction to Mathematical Thinking,4,Business Manager
+108,Formal Financial Accounting,2,Business Manager
+109,Fundamentals of Social Media Advertising,4,Business Manager
+109,Investment Management,5,Business Manager
+109,"Make the Sale: Build, Launch, and Manage E-commerce Stores",4,Business Manager
+109,International Leadership and Organizational Behavior,4,Business Manager
+109,Introduction to Finance: The Basics,4,Business Manager
+109,Play It Safe: Manage Security Risks,2,Business Manager
+109,Sales and CRM Overview,5,Business Manager
+109,Communication Strategies for a Virtual Age,4,Business Manager
+109,Introduction to Computers and Operating Systems and Security,1,Business Manager
+109,Preparing for Google Cloud Certification: Cloud Architect,5,Business Manager

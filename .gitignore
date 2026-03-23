@@ -1,0 +1,16 @@
+# Ignore large binary model files (Markers should re-train these)
+models/*.pkl
+
+# Ignore temporary Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+.env
+
+# DO NOT ignore .csv files in the data folder
+!data/*.csv
